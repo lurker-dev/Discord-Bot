@@ -15,7 +15,7 @@ This repository hosts various Python scripts for Discord bots, each offering uni
 ## Usage
 
 1. Clone the repository.
-2. Install dependencies (`pip install -r requirements.txt`).
+2. Install dependencies (`pip install discord.py`).
 3. Replace placeholders in bot scripts with your bot token.
 4. Run the desired bot script.
 
